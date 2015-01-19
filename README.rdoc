@@ -1,4 +1,6 @@
 Read me
 
-add items 
+add products in cart
+
+add items like admin 
 http://localhost:3000/products
